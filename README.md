@@ -1,4 +1,4 @@
-# 📊 Subscription Manager System
+# 📊 Subscription Manager 
 
 A menu-driven **Python CRUD application** for managing digital subscriptions like Netflix, Spotify, Amazon Prime, etc.
 
